@@ -9,3 +9,5 @@ O Brasil no mês de novembro de 2022 registrou um saldo positivo, ou seja, regis
 
 Na dashboard produzido é possível realizar interações, sendo possível se aprofundar mais aos dados. Na figura abaixo podemos observar de uma melhor forma, um recorte do Nordeste.
 ![tela2](tela2.png)
+
+Em novembro, o Nordeste apresentou um saldo positivo de 29 mil movimentações, responsável por 21,48% dos novos postos de trabalho do Brasil. É possivel observar que mesmo com o saldo positivo, tiveram estados com fechamento negativo como o Piauí e Rio Grande do Norte. Em relação as admissões por setores, "Comércio, Reparação de Veículos Automotores e Motocicletas" continuou liderando também no nordeste, porém uma mudança na 3ª posição em que diferente do Brasil de modo geral, "Construção" teve mais admissões que "Industrias de Transformação".
