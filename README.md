@@ -14,7 +14,7 @@ Na dashboard produzido é possível realizar interações, sendo possível se ap
 
 Em novembro, o Nordeste apresentou um saldo positivo de 29 mil movimentações, responsável por 21,48% dos novos postos de trabalho do Brasil. É possivel observar que mesmo com o saldo positivo, tiveram estados com fechamento negativo como o Piauí e Rio Grande do Norte. Em relação as admissões por setores, "Comércio, Reparação de Veículos Automotores e Motocicletas" continuou liderando também no nordeste, porém uma mudança na 3ª posição em que diferente do Brasil de modo geral, "Construção" teve mais admissões que "Industrias de Transformação".
 
-Na segunda tela do dashboard, foi observado o histórico do ano de 202. Na figura abaixo, é possível observar o desemepenho da movimentações dos postos de trabalho ao longo do ano.
+Na segunda tela do dashboard, foi observado o histórico do ano de 2022. Na figura abaixo, é possível observar o desemepenho da movimentações dos postos de trabalho ao longo do ano.
 
 ![tela3](tela3.png)
 
